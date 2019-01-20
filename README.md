@@ -1,1 +1,1 @@
-User can bet on their cards against the dealer and try to win the game.
+Player can bet on their cards against the dealer and try to win the game.
